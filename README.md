@@ -21,8 +21,8 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 **Ambiente de Desenvolvimento**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-khaki)
+
 
 **DevOps**
 
