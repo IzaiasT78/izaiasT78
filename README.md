@@ -47,8 +47,8 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do IzaiasT78">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/izaiasT78" title="Perfil do IzaiasT78">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izaiast78&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
