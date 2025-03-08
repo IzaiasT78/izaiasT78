@@ -34,6 +34,11 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/Hadoop-turquoise)
 ![Static Badge](https://img.shields.io/badge/Spark-black)
 
+**Bancos de Dados** 
+
+![Static Badge](https://img.shields.io/badge/SQL-orange)
+![Static Badge](https://img.shields.io/badge/NoSQL-blue)
+
 
 
 
