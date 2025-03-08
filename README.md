@@ -49,6 +49,9 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/Git-red)
 ![Static Badge](https://img.shields.io/badge/GitHub-black)
 
+## SOFTSKILLS 
+
+
 
 <br/>
 
