@@ -11,7 +11,7 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 ## HARDSKILLS 
 
-**Programação** 
+**Programação** / **Bibliotecas**
 
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![Static Badge](https://img.shields.io/badge/R-gray)
