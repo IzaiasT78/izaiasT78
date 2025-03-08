@@ -15,6 +15,8 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![Static Badge](https://img.shields.io/badge/R-gray)
+![Static Badge](https://img.shields.io/badge/Pandas-purple)
+
 
 
 **Utilidades**
