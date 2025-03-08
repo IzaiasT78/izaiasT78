@@ -27,6 +27,8 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 **Ferramentas de Visualização**
 
 ![Static Badge](https://img.shields.io/badge/Tableau-navy)
+![Static Badge](https://img.shields.io/badge/Power%20BI-yellow)
+
 
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
