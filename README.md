@@ -1,7 +1,6 @@
 
 
-## "Não importa que você vá devagar, contanto que você não pare".
-Confúcio
+## "Não importa que você vá devagar, contanto que você não pare". Confúcio
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {seu curso} no {faculdade}.
