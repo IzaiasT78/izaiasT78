@@ -53,6 +53,12 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 ![Static Badge](https://img.shields.io/badge/Pensamento%20Anal%C3%ADtico%20e%20Cr%C3%ADtico-blue)
 ![Static Badge](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o%20Eficaz-blue)
+![Static Badge](https://img.shields.io/badge/Curiosidade%20e%20Aprendizado%20Cont%C3%ADnuo-blue)
+![Static Badge](https://img.shields.io/badge/Trabalho%20em%20Equipe-blue)
+![Static Badge](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20Problemas-blue)
+![Static Badge](https://img.shields.io/badge/Adaptabilidade-blue)
+![Static Badge](https://img.shields.io/badge/%C3%89tica%20e%20Responsabilidade-blue)
+
 
 
 
