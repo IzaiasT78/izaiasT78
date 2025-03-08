@@ -51,6 +51,10 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 
 ## SOFTSKILLS 
 
+![Static Badge](https://img.shields.io/badge/Pensamento%20Anal%C3%ADtico%20e%20Cr%C3%ADtico-blue)
+![Static Badge](https://img.shields.io/badge/Comunica%C3%A7%C3%A3o%20Eficaz-blue)
+
+
 
 
 <br/>
