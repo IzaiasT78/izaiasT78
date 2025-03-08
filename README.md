@@ -2,7 +2,8 @@
 
 ## "Não importa que você vá devagar, contanto que você não pare". Confúcio
 
-Quem é o Izaias Etelvino? 
+Quem é o Izaias Etelvino?  
+
 Profissional de tecnologia e inovação, apaixonado por transformar ideias em soluções práticas e funcional. Casado e pai dedicado, ele encontra na família sua maior motivação, valorizando o equilíbrio entre vida pessoal e profissional. 
 Com foco em otimizar processos e criar ferramentas que melhoram a experiência do usuário, destaca-se por sua abordagem colaborativa e disposição para compartilhar conhecimento. 
 Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constante aprendizado. Sua combinação de habilidades técnicas, visão estratégica e empatia o torna um profissional completo, pronto para impulsionar inovações que geram valor real.
