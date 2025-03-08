@@ -39,6 +39,11 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/SQL-orange)
 ![Static Badge](https://img.shields.io/badge/NoSQL-blue)
 
+**Machine Learning** 
+
+![Static Badge](https://img.shields.io/badge/ScikitLean-orange)
+![Static Badge](https://img.shields.io/badge/TensorFlow-orange)
+
 
 
 
