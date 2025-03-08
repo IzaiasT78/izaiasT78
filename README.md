@@ -12,6 +12,7 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ## HARDSKILLS 
 
 **Programação** / **Bibliotecas**
+
 ![Static Badge](https://img.shields.io/badge/Python-blue)
 ![Static Badge](https://img.shields.io/badge/R-gray)
 ![Static Badge](https://img.shields.io/badge/Pandas-purple)
@@ -19,14 +20,17 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/ggplot2-green)
 
 **Ambiente de Desenvolvimento**
+
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-blue)
 ![Static Badge](https://img.shields.io/badge/Rstudio-gray)
 
 **Ferramentas de Visualização**
+
 ![Static Badge](https://img.shields.io/badge/Tableau-navy)
 ![Static Badge](https://img.shields.io/badge/Power%20BI-yellow)
 
 **Ferramentas de Big Data**
+
 ![Static Badge](https://img.shields.io/badge/Hadoop-turquoise)
 ![Static Badge](https://img.shields.io/badge/Spark-black)
 
