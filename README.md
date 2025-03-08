@@ -19,10 +19,7 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/Matplotlib-orange)
 ![Static Badge](https://img.shields.io/badge/ggplot2-green)
 
-
-
-
-**Utilidades**
+**Ambiente de Desenvolvimento**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
