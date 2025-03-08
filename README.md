@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-## Sobre mim
+
+## Izaias Etelvino
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando {seu curso} no {faculdade}.
