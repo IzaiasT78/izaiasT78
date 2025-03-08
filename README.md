@@ -24,9 +24,10 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-blue)
 ![Static Badge](https://img.shields.io/badge/Rstudio-gray)
 
+**Ferramentas de Visualização**
 
+![Static Badge](https://img.shields.io/badge/Tableau-navy)
 
-**DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
