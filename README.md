@@ -22,7 +22,7 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 **Ambiente de Desenvolvimento**
 
 ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook-khaki)
-![Static Badge](https://img.shields.io/badge/Rstudio-blue)
+![Static Badge](https://img.shields.io/badge/Rstudio-gray)
 
 
 
