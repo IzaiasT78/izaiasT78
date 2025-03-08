@@ -14,7 +14,7 @@ Determinado e curioso, enfrenta desafios com entusiasmo, mantendo-se em constant
 **Programação** 
 
 ![Static Badge](https://img.shields.io/badge/Python-blue)
-![Static Badge](https://img.shields.io/badge/R-blue)
+![Static Badge](https://img.shields.io/badge/R-gray)
 
 
 **Utilidades**
